@@ -3,7 +3,7 @@ Permite a los usuarios ingresar nombres de amigos en una lista para luego realiz
 
 ---
 
-📑 Índice  
+Índice  
 1. Descripción del Proyecto  
 2. Estado del Proyecto  
 3. Demostración de Funciones  
