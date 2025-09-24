@@ -17,11 +17,11 @@ Permite a los usuarios ingresar nombres de amigos en una lista para luego realiz
 
 Descripción del Proyecto  
 Amigo Secreto es una aplicación web sencilla donde se pueden:  
-- Agregar nombres en una lista.  
-- Visualizar los nombres en pantalla.  
-- Realizar un sorteo aleatorio para determinar quién es el amigo secreto.  
+- Agregar nombres en una lista  
+- Visualizar los nombres en pantalla
+- Realizar un sorteo aleatorio para determinar quién es el amigo secreto 
 
-Este proyecto refuerza conceptos básicos de programación: variables, condicionales, funciones, arrays y bucles.  
+Este proyecto refuerza conceptos básicos de programación: variables, condicionales, funciones, arrays y bucles
 
 ---
 
@@ -30,9 +30,9 @@ Estado del Proyecto: Terminado
 ---
 
 Demostración de Funciones  
-- Añadir nombres mediante un campo de texto.  
-- Mostrar los nombres en una lista.  
-- Realizar el sorteo de manera aleatoria.  
+- Añadir nombres mediante un campo de texto
+- Mostrar los nombres en una lista
+- Realizar el sorteo de manera aleatoria
 
 Ejemplo de sorteo:  
 "El amigo secreto es: Laura"
@@ -42,7 +42,7 @@ Ejemplo de sorteo:
 Acceso al Proyecto  
 1. Clona este repositorio:  
    git clone https://github.com/lauv108/Amigo-Secreto.git 
-2. Abre el archivo index.html en tu navegador.  
+2. Abre el archivo index.html en tu navegador
 
 ---
 
@@ -54,9 +54,9 @@ Tecnologías Utilizadas
 ---
 
 Personas Contribuyentes  
-- Alura Latam (desafío base).  
+- Alura Latam (desafío base) 
 
 ---
 
-Personas Desarrolladoras  
+Desarrolladora 
 - Laura Daniela Velasquez Marin
