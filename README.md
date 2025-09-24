@@ -3,12 +3,6 @@ Permite a los usuarios ingresar nombres de amigos en una lista para luego realiz
 
 ---
 
-Insignias  
-- Estado del proyecto: Terminado  
-- Hecho con: JavaScript  
-
----
-
 📑 Índice  
 1. Descripción del Proyecto  
 2. Estado del Proyecto  
