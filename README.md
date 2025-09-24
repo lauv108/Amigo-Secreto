@@ -25,8 +25,7 @@ Este proyecto refuerza conceptos básicos de programación: variables, condicion
 
 ---
 
-Estado del Proyecto  
-Terminado  
+Estado del Proyecto: Terminado  
 
 ---
 
